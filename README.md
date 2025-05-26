@@ -61,11 +61,5 @@ npm start
 - This is not a production-ready application.
 - Originally based on an open-source structure and then customized and simplified as part of learning.
 - Aimed at understanding routing, component structure, state management, and API communication between frontend and backend.
-
----
-
-## 👨‍💻 Author
-
-Created by [Your Name] as part of ongoing full-stack development practice.  
-Feel free to fork, learn from, or contribute to this repository.
+- It's a learning project
 
